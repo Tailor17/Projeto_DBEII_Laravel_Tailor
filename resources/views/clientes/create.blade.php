@@ -19,7 +19,7 @@
         
         <div>
             <label>Telefone:</label>
-            <input type="text" name="telefone" required>
+            <input type="tel" name="telefone" required>
         </div>
         <br>
 
